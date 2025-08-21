@@ -2,6 +2,10 @@
 
 Um aplicativo móvel desenvolvido com React Native e Expo para gerar senhas seguras com uma temática do Batman.
 
+## 📱 Screenshot
+
+![Bat Pass App Screenshot](./assets/screenshot.png)
+
 ## 📱 Tecnologias
 
 - React Native

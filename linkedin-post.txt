@@ -1,0 +1,23 @@
+🚀 Feliz em compartilhar meu mais novo projeto: Bat Pass App! 
+
+🦇 Desenvolvi um aplicativo mobile para geração de senhas seguras com uma temática especial do Batman utilizando React Native e Expo.
+
+🔧 Principais aprendizados durante o desenvolvimento:
+• Aprofundei meus conhecimentos em TypeScript com React Native
+• Implementei componentes reutilizáveis e escaláveis
+• Trabalhei com gerenciamento de estados e props
+• Utilizei o expo-clipboard para funcionalidade de copiar/colar
+• Apliquei conceitos de UI/UX com estilização personalizada
+• Pratiquei clean code e organização de projeto
+
+🛠️ Tecnologias utilizadas:
+• React Native
+• Expo
+• TypeScript
+• Styled Components
+
+💡 Este projeto me permitiu combinar tecnologias modernas com uma interface temática divertida, resultando em uma aplicação funcional e visualmente atraente.
+
+📱 O app está disponível no meu GitHub! Confira o código e deixe uma ⭐ se gostar!
+
+#desenvolvimento #reactnative #typescript #mobile #javascript #programming #github #desenvolvimentomobile #expo
